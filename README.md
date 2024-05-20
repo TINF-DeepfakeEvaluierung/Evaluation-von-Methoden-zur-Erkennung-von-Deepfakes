@@ -5,4 +5,7 @@ Die Datensätze sind jedoch nicht öffentlich zugänglich und müssen selbständ
 Die Colabs gehen davon aus, dass die Datensätze in Google Cloud Buckets gespeichert wurden.
 
 EfficientNet [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TINF-DeepfakeEvaluierung/Evaluation-von-Methoden-zur-Erkennung-von-Deepfakes/blob/main/EfficientNet.ipynb)
+
+FTCN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TINF-DeepfakeEvaluierung/Evaluation-von-Methoden-zur-Erkennung-von-Deepfakes/blob/main/FTCN.ipynb)
+
 Kombination EfficientNetB4 + FTCN [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/TINF-DeepfakeEvaluierung/Evaluation-von-Methoden-zur-Erkennung-von-Deepfakes/blob/main/EfficientNet%2BFTCN.ipynb)
