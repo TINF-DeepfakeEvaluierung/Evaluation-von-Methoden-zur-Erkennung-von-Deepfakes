@@ -1,4 +1,4 @@
-# Evaluation-von-Methoden-zur-Erkennung-von-Deepfakes
+# Evaluation von Methoden zur Erkennung von Deepfakes
 In diesem Repository ist der Code zu finden, welcher für die Evaluation verwendet wurde.
 Der Code kann dabei einfach in Google Colab geöffnet und verwerwendet werden.
 Die Datensätze sind jedoch nicht öffentlich zugänglich und müssen selbständig bei den jeweiligen Entwicklern angefragt werden.
